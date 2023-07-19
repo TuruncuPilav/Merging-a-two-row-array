@@ -1,6 +1,7 @@
 ﻿/*
-İki sıralanmış dizi verildiğinde, onları sıralanmış bir şekilde
-birleştiren C kodunu yazınız.
+	İki sıralı dizi verildiğinde, bunları sıralı bir şekilde birleştiren C kodunuzu yazın.
+
+ 	Given two sorted arrays, write your C code that combines them in an ordered manner.
  */
 
 #include <stdio.h>
